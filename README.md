@@ -1,5 +1,5 @@
 
-## 👋 Hello, I'm [Amarachi]!
+## 👋 Hello, I'm Amarachi!
 
 I'm a cybersecurity and cloud engineer passionate about building secure systems and exploring new technologies.
 
@@ -14,7 +14,7 @@ I'm a cybersecurity and cloud engineer passionate about building secure systems 
 
 ### 🎯 Current Goals
 - Expanding my skills in Docker and Kubernetes
-- Preparing for Azure Security Certifications
+- Preparing for Azure & AWS Security Certifications
 
 ---
 Connect with me: [LinkedIn](www.linkedin.com/in/amarachi-nwamuo) | 
